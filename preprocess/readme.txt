@@ -1,3 +1,5 @@
+All instances of "placeholder.txt" need to be deleted. They are there to satisfy github's filing system.
+
 Order of running Python files.
 mea_sampling.py
 fps.py
